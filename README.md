@@ -19,10 +19,10 @@ This is a simple real-time chat application built with Node.js and Socket.IO for
    git clone https://github.com/marwanMagdy66/real-time-chat-app.git
 2. Navigate to the project directory:
    ```bash
-  cd real-time-chat-app
+   cd real-time-chat-app
 3. Install the dependencies:
     ```bash
-   npm install
+    npm install
 4. Run the application:
   node index.js
 The app will start on http://localhost:3000
